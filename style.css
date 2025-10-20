@@ -1,0 +1,29 @@
+body{
+            postion: absolute;
+            left: 0px;
+            top: 0px;
+
+            width: 100vw;
+            height: 100vh;
+
+            border: 0px;
+            margin: 0px;
+            passing: 0px;
+            
+            background-color: #000000;
+        }
+
+        #topBar{
+            pposition: absolute;
+            left: 0px;
+            top: 0px;
+
+            width: 100vw;
+            height: 10vh;
+
+            border: 0px;
+            margin: 0px;
+            passing: 0px;
+            
+            background-color: #A0A0A0;            
+        }
